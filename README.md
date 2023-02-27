@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, Python, OpenCV, etc. 
 - 🌱 I’m currently learning C# and DeepLearning.
 - 💞️ I’m looking to collaborate on Computer Vision and C#.
-- 📫 How to reach me email : sunpate@microsoft.com.
+- 📫 How to reach me email : sunil1821@meta.com 
 
 <!---
 sunilpateliit/sunilpateliit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
